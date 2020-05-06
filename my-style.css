@@ -17,6 +17,7 @@ h5 {
   width: 40px;
   margin: 0 auto;
 }
+
 img {
   width: 100%;
 }
@@ -24,6 +25,7 @@ img {
 ul.contacts {
   display: block;
 }
+
 .contacts a:hover {
   color: #940707;
 }
