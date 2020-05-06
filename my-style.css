@@ -1,0 +1,29 @@
+.avatar[role='img'] {
+  width: 100%;
+}
+
+h5 {
+  margin-top: 8px;
+  margin-bottom: 0;
+}
+
+.ten.wide .fat.divider {
+  border-top-color: #940707;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.logo {
+  width: 40px;
+  margin: 0 auto;
+}
+img {
+  width: 100%;
+}
+
+ul.contacts {
+  display: block;
+}
+.contacts a:hover {
+  color: #940707;
+}
